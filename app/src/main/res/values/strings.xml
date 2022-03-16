@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="compass_core">Background of compass</string>
+    <string name="compass_pointer">Points the north and south direction on compass</string>
+</resources>
