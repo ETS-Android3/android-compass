@@ -15,6 +15,8 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3567708333333333" />
         <entry key="app/src/main/res/layout/activity_compass.xml" value="0.4264705882352941" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.340625" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18229166666666666" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18229166666666666" />
       </map>
     </option>
   </component>
