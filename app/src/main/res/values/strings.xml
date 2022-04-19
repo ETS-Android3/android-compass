@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">Compass</string>
-    <string name="compass_core">Background of compass</string>
-    <string name="compass_pointer">Points the north and south direction on compass</string>
+    <string name="appName">Compass</string>
+    <string name="compassCore">Background of compass</string>
+    <string name="compassPointer">Points the north and south direction on compass</string>
+    <string name="emptyLabel">--</string>
+    <string name="locationPermissionsRequest">If you want to see exact position you need to allow location permissions</string>
 </resources>
